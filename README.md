@@ -47,7 +47,6 @@ I am a results-oriented **Data Scientist** currently driving AI innovation at **
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imsajidsaifi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
